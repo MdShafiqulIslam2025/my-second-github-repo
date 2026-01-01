@@ -1,0 +1,40 @@
+
+.header{
+  height: 300px;
+  /* background-image: url(drone.png); */
+  /* background-image: url(../wallpaper.jpeg); */
+  background-image: url(../image/tiger.jpg);
+  /* background-repeat: no-repeat; */
+  /* background-repeat: repeat-x; */
+  /* background-repeat: repeat-y; */
+  /* background-size: cover ; */
+  background-size: contain;
+  /* background-size: 400px; */
+ 
+ }
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.Blog{
+    margin: 40px;
+    border: 5px solid tomato;
+    box-shadow: 10px 10px 10px tomato;}
+    
+.dolor{
+    border: 3px solid pink;
+    margin: 10px;
+    display: inline-block;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+/* li{ 
+    display: inline-block;
+} */
+
+ /* *{
+    margin: 0px;
+} */
+ 
